@@ -10,5 +10,5 @@ banner:
   tagline: 为所有人服务的学习网站
 blog:
   socialLinks:
-    - { icon: 'LogoGithub', link: 'https://github.com/ShiYiZhiHanZhuZhuYa' }
+    - { icon: 'LogoGithub', link: 'https://github.com/IsSmallPigPig' }
 ---
