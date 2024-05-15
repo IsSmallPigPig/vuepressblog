@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-1e81af77","path":"/docs/study/daofa/note/9a.html","title":"九年级上册","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/study/daofa/note/9a.md"}');export{t as data};

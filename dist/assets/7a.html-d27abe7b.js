@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-96958e16","path":"/docs/study/daofa/note/7a.html","title":"七年级上学期道法资料","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/study/daofa/note/7a.md"}');export{t as data};
